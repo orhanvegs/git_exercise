@@ -1,2 +1,2 @@
 this is for a git exercise
-this is my second change in my code
+this is my second change in my code.
